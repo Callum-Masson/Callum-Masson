@@ -14,9 +14,6 @@ I'm particularly interested in:
 **Market Maker Simulator** 
 - A Python simulation of a market making strategy, modelling order flow, inventory management and PnL.
 
-**Numerical Methods in Python** 
-- Implemented interpolation, optimisation, numerical integration and ODE solvers.
-
 ## Technical Skills
 
 **Languages**

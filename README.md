@@ -10,6 +10,8 @@ I'm particularly interested in:
 - Control Systems
 
 ## Featured Projects
+**Drone Simulator Project**
+- Simulating an autonomous quadrotor with 6-DOF to investigate implementing drone control systems
 
 **Market Maker Simulator** 
 - A Python simulation of a market making strategy, modelling order flow, inventory management and PnL.
